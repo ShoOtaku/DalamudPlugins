@@ -1,4 +1,12 @@
 # XSZToolbox Changelog
+## v1.0.8.1 - 2025-10-24
+
+测试
+
+## v1.0.8 - 2025-10-24
+
+添加混淆发布功能，支持自动更新pluginmaster.json和changelog.md
+
 
 ## v1.0.7 - 2025-10-23
 

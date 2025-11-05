@@ -1,4 +1,8 @@
 # XSZToolbox Changelog
+## v1.1.7 - 2025-11-05
+
+新增动画debug3
+
 ## v1.1.6 - 2025-11-05
 
 新增动画debug2

@@ -3,7 +3,7 @@
     "Author": "XSZYYS",
     "Name": "XSZToolbox",
     "InternalName": "XSZToolbox",
-    "AssemblyVersion": "1.2.8.0",
+    "AssemblyVersion": "1.2.9.0",
     "Description": "小小工具箱",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
@@ -21,7 +21,7 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZToolbox/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZToolbox/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": 1763635456,
-    "Changelog": "添加了消息过滤功能"
+    "LastUpdate": 1763636895,
+    "Changelog": "添加了消息过滤功能，修复了不保存的bug"
   }
 ]

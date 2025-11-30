@@ -1,4 +1,8 @@
 # XSZToolbox Changelog
+## v1.4.3.8 - 2025-11-30
+
+修bug
+
 ## v1.4.3.7 - 2025-11-30
 
 修bug

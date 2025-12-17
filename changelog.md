@@ -1,4 +1,8 @@
 # XSZToolbox Changelog
+## v1.5.2.1 - 2025-12-17
+
+适配API14，修复bug
+
 ## v1.5.2.0 - 2025-12-17
 
 适配API14

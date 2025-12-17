@@ -3,7 +3,7 @@
     "Author": "XSZYYS",
     "Name": "XSZToolbox",
     "InternalName": "XSZToolbox",
-    "AssemblyVersion": "1.5.2.2",
+    "AssemblyVersion": "1.5.2.3",
     "Description": "小小工具箱",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
@@ -21,7 +21,7 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZToolbox/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZToolbox/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": 1765975495,
+    "LastUpdate": 1765977443,
     "Changelog": "适配API14，修复bug"
   }
 ]

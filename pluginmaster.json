@@ -3,7 +3,7 @@
     "Author": "XSZYYS",
     "Name": "XSZToolbox",
     "InternalName": "XSZToolbox",
-    "AssemblyVersion": "1.5.7.2",
+    "AssemblyVersion": "1.5.7.3",
     "Description": "小小工具箱",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
@@ -21,7 +21,7 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZToolbox/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZToolbox/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": 1767331163,
-    "Changelog": "UI：优化了一下界面"
+    "LastUpdate": 1767803874,
+    "Changelog": "拉取了上游更新。自动招募模块暂时有点问题，先不要使用。"
   }
 ]

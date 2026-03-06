@@ -21,7 +21,7 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZToolbox/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZToolbox/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": 1772795652,
+    "LastUpdate": 1772797192,
     "Changelog": "新增：技能序列支持导出导入，并可以保存多个预设"
   }
 ]

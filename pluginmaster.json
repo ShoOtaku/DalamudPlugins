@@ -23,5 +23,34 @@
     "DownloadCount": 0,
     "LastUpdate": 1773154054,
     "Changelog": "远程聊天新增队员进队提醒"
+  },
+  {
+    "Author": "XSZYYS",
+    "Name": "XSZRemoteChatBridge",
+    "InternalName": "XSZRemoteChatBridge",
+    "AssemblyVersion": "1.0.3.2",
+    "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
+    "Tags": [
+      "utility",
+      "chat",
+      "bridge"
+    ],
+    "CategoryTags": [
+      "utility",
+      "chat",
+      "bridge"
+    ],
+    "DalamudApiLevel": 14,
+    "IconUrl": "",
+    "Punchline": "FF14 远程聊天桥接独立插件",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZRemoteChatBridge/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZRemoteChatBridge/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZRemoteChatBridge/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": 1773222104,
+    "Changelog": "fix: use AtmoOmen Dalamud release for CI refs"
   }
 ]

@@ -28,19 +28,15 @@
     "Author": "XSZYYS",
     "Name": "XSZRemoteChatBridge",
     "InternalName": "XSZRemoteChatBridge",
-    "AssemblyVersion": "1.0.3.2",
+    "AssemblyVersion": "1.0.4.1",
     "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
     "Tags": [
-      "utility",
-      "chat",
-      "bridge"
+      "utility"
     ],
     "CategoryTags": [
-      "utility",
-      "chat",
-      "bridge"
+      "utility"
     ],
     "DalamudApiLevel": 14,
     "IconUrl": "",
@@ -50,7 +46,7 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZRemoteChatBridge/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZRemoteChatBridge/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": 1773222104,
-    "Changelog": "fix: use AtmoOmen Dalamud release for CI refs"
+    "LastUpdate": 1773222818,
+    "Changelog": "fix: restrict pluginmaster tags to utility"
   }
 ]

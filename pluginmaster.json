@@ -28,7 +28,7 @@
     "Author": "XSZYYS",
     "Name": "XSZRemoteChatBridge",
     "InternalName": "XSZRemoteChatBridge",
-    "AssemblyVersion": "1.0.12.1",
+    "AssemblyVersion": "26.04.29.1",
     "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
@@ -38,7 +38,7 @@
     "CategoryTags": [
       "utility"
     ],
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "IconUrl": "",
     "Punchline": "FF14 远程聊天桥接独立插件",
     "AcceptsFeedback": true,
@@ -46,7 +46,7 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZRemoteChatBridge/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZRemoteChatBridge/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": 1776316262,
-    "Changelog": "feat: 接入 Server酱 推送并新增说明页 / add ServerChan push support and guide page"
+    "LastUpdate": 1777460615,
+    "Changelog": "feat: 升级 API15 + 日期版号与校验 / upgrade to API15 with date-based versioning and validation"
   }
 ]
